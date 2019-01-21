@@ -188,6 +188,8 @@
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
 'Assets/Scripts/Ball.cs'
+'Assets/Scripts/Block.cs'
+'Assets/Scripts/Level.cs'
 'Assets/Scripts/LoseCollider.cs'
 'Assets/Scripts/Paddle.cs'
 'Assets/Scripts/SceneLoader.cs'

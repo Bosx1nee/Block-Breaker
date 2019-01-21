@@ -45,3 +45,4 @@ public class Ball : MonoBehaviour {
         transform.position = paddlePos + paddleToBallVector;
     }
 }
+
